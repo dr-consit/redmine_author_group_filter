@@ -1,0 +1,4 @@
+# Danish strings go here for Rails i18n
+da:
+  field_author_of_group: "Forfatter tilhører"
+
